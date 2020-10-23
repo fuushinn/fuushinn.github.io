@@ -4,14 +4,21 @@
   <url>
     <loc>http://yoursite.com/2020/10/19/</loc>
     
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/07/21/</loc>
+    <loc>http://yoursite.com/2020/10/23/</loc>
     
-    <lastmod>2020-08-14</lastmod>
+    <lastmod>2020-10-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/08/14/</loc>
+    
+    <lastmod>2020-10-23</lastmod>
     
   </url>
   
@@ -256,7 +263,7 @@
 
   <url>
     <loc>http://yoursite.com/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -264,77 +271,77 @@
   
   <url>
     <loc>http://yoursite.com/tags/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/%E7%90%B4%E8%B5%A4/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/BLEACH/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/%E5%BC%A6%E9%9B%A8/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/%E6%B6%85%E6%B5%A6/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/%E3%82%A4%E3%82%B7%E3%83%97%E3%83%AD/</loc>
-    <lastmod>2020-10-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/%E8%B4%9D%E5%B8%8C/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/%E7%9F%AD%E7%AF%87/</loc>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/%E8%91%9B%E4%B9%8C/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/%E4%BF%AE%E5%90%89/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -343,140 +350,140 @@
   
   <url>
     <loc>http://yoursite.com/categories/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97/%E7%90%B4%E9%85%92%C3%97%E8%B5%A4%E4%BA%95%E7%A7%80%E4%B8%80/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/BLEACH/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97/%E7%90%B4%E9%85%92%C3%97%E8%B5%A4%E4%BA%95%E7%A7%80%E4%B8%80/%E7%9F%AD%E7%AF%87/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97/%E7%90%B4%E9%85%92%C3%97%E8%B5%A4%E4%BA%95%E7%A7%80%E4%B8%80/%E7%9B%B8%E7%88%B1%E7%9B%B8%E6%9D%80/</loc>
-    <lastmod>2020-10-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/BLEACH/%E7%9F%B3%E7%94%B0%E9%BE%99%E5%BC%A6%C3%97%E7%9F%B3%E7%94%B0%E9%9B%A8%E9%BE%99/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F/</loc>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97/%E8%B4%9D%E5%B0%94%E6%91%A9%E5%BE%97%C3%97%E8%97%A4%E5%B3%B0%E6%9C%89%E5%B8%8C%E5%AD%90/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/BLEACH/%E8%91%9B%E5%8A%9B%E5%A7%86%E4%B9%94%C3%97%E4%B9%8C%E5%B0%94%E5%A5%87%E5%A5%A5%E6%8B%89/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/BLEACH/%E6%A1%A7%E4%BD%90%E6%9C%A8%E4%BF%AE%E5%85%B5%C3%97%E5%90%89%E8%89%AF%E4%BA%95%E9%B9%A4/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/BLEACH/%E6%B6%85%E8%8C%A7%E5%88%A9%C3%97%E6%B5%A6%E5%8E%9F%E5%96%9C%E5%8A%A9/</loc>
-    <lastmod>2020-10-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F/%E7%9F%B3%E5%B7%9D%C3%97%E6%99%AE%E6%B4%9B%E7%89%B9/</loc>
-    <lastmod>2020-10-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F/%E4%B8%AA%E4%BA%BA%E7%9F%AD%E7%AF%87/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/BLEACH/%E7%9F%B3%E7%94%B0%E9%BE%99%E5%BC%A6%C3%97%E7%9F%B3%E7%94%B0%E9%9B%A8%E9%BE%99/Not-Another-Day/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F/%E7%9F%B3%E5%B7%9D%C3%97%E6%99%AE%E6%B4%9B%E7%89%B9/</loc>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97/%E8%B4%9D%E5%B0%94%E6%91%A9%E5%BE%97%C3%97%E8%97%A4%E5%B3%B0%E6%9C%89%E5%B8%8C%E5%AD%90/%E7%9F%AD%E7%AF%87/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F/%E4%B8%AA%E4%BA%BA%E7%9F%AD%E7%AF%87/</loc>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/BLEACH/%E8%91%9B%E5%8A%9B%E5%A7%86%E4%B9%94%C3%97%E4%B9%8C%E5%B0%94%E5%A5%87%E5%A5%A5%E6%8B%89/So-Lucky/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/BLEACH/%E6%A1%A7%E4%BD%90%E6%9C%A8%E4%BF%AE%E5%85%B5%C3%97%E5%90%89%E8%89%AF%E4%BA%95%E9%B9%A4/%E7%9F%AD%E7%AF%87/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/BLEACH/%E6%B6%85%E8%8C%A7%E5%88%A9%C3%97%E6%B5%A6%E5%8E%9F%E5%96%9C%E5%8A%A9/%E7%9F%AD%E7%AF%87/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/%E6%94%BB%E5%A3%B3%E6%9C%BA%E5%8A%A8%E9%98%9F/%E7%9F%B3%E5%B7%9D%C3%97%E6%99%AE%E6%B4%9B%E7%89%B9/%E7%94%9F%E5%8C%96%E4%BA%BA%E4%BC%9A%E6%A2%A6%E8%A7%81%E7%94%B5%E5%AD%90%E6%83%85%E4%B9%A6%E5%90%97%E2%80%A6/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/%EF%B9%A2%EF%B9%A2%EF%B9%A2/</loc>
-    <lastmod>2020-10-22</lastmod>
+    <lastmod>2020-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
